@@ -1,0 +1,49 @@
+C:\Users\Aluno\Desktop\Calcu\Calcu\bin\Debug\Calcu.exe
+C:\Users\Aluno\Desktop\Calcu\Calcu\bin\Debug\Calcu.pdb
+C:\Users\Aluno\Desktop\Calcu\Calcu\obj\x86\Debug\Calcu.frmCalcu.resources
+C:\Users\Aluno\Desktop\Calcu\Calcu\obj\x86\Debug\Calcu.Properties.Resources.resources
+C:\Users\Aluno\Desktop\Calcu\Calcu\obj\x86\Debug\Calcu.csproj.GenerateResource.Cache
+C:\Users\Aluno\Desktop\Calcu\Calcu\obj\x86\Debug\Calcu.exe
+C:\Users\Aluno\Desktop\Calcu\Calcu\obj\x86\Debug\Calcu.pdb
+C:\Users\Aluno\Desktop\Calcu\Calcu\obj\x86\Debug\Calcu.csprojResolveAssemblyReference.cache
+G:\2ºModulo\DS1\Atividades Interface\Calcu\Calcu\obj\x86\Debug\Calcu.exe
+G:\2ºModulo\DS1\Atividades Interface\Calcu\Calcu\obj\x86\Debug\Calcu.pdb
+G:\2ºModulo\DS1\Atividades Interface\Calcu\Calcu\bin\Debug\Calcu.exe
+G:\2ºModulo\DS1\Atividades Interface\Calcu\Calcu\bin\Debug\Calcu.pdb
+G:\2ºModulo\DS1\Atividades Interface\Calcu\Calcu\obj\x86\Debug\Calcu.csprojResolveAssemblyReference.cache
+G:\2ºModulo\DS1\Atividades Interface\Calcu\Calcu\obj\x86\Debug\Calcu.frmCalcu.resources
+G:\2ºModulo\DS1\Atividades Interface\Calcu\Calcu\obj\x86\Debug\Calcu.Properties.Resources.resources
+G:\2ºModulo\DS1\Atividades Interface\Calcu\Calcu\obj\x86\Debug\Calcu.csproj.GenerateResource.Cache
+C:\Users\Bruno\Desktop\Calcu\Calcu\obj\x86\Debug\Calcu.exe
+C:\Users\Bruno\Desktop\Calcu\Calcu\obj\x86\Debug\Calcu.pdb
+C:\Users\Bruno\Desktop\Calcu\Calcu\bin\Debug\Calcu.exe
+C:\Users\Bruno\Desktop\Calcu\Calcu\bin\Debug\Calcu.pdb
+C:\Users\Bruno\Desktop\Calcu\Calcu\obj\x86\Debug\Calcu.csprojResolveAssemblyReference.cache
+C:\Users\Bruno\Desktop\Calcu\Calcu\obj\x86\Debug\Calcu.frmCalcu.resources
+C:\Users\Bruno\Desktop\Calcu\Calcu\obj\x86\Debug\Calcu.Properties.Resources.resources
+C:\Users\Bruno\Desktop\Calcu\Calcu\obj\x86\Debug\Calcu.csproj.GenerateResource.Cache
+F:\2ºModulo\DS1\Atividades Interface\Calcu\Calcu\obj\x86\Debug\Calcu.exe
+F:\2ºModulo\DS1\Atividades Interface\Calcu\Calcu\obj\x86\Debug\Calcu.pdb
+F:\2ºModulo\DS1\Atividades Interface\Calcu\Calcu\bin\Debug\Calcu.exe
+F:\2ºModulo\DS1\Atividades Interface\Calcu\Calcu\bin\Debug\Calcu.pdb
+F:\2ºModulo\DS1\Atividades Interface\Calcu\Calcu\obj\x86\Debug\Calcu.csprojResolveAssemblyReference.cache
+F:\2ºModulo\DS1\Atividades Interface\Calcu\Calcu\obj\x86\Debug\Calcu.frmCalcu.resources
+F:\2ºModulo\DS1\Atividades Interface\Calcu\Calcu\obj\x86\Debug\Calcu.Properties.Resources.resources
+F:\2ºModulo\DS1\Atividades Interface\Calcu\Calcu\obj\x86\Debug\Calcu.csproj.GenerateResource.Cache
+H:\2ºModulo\DS1\Atividades Interface\Calcu\Calcu\obj\x86\Debug\Calcu.exe
+H:\2ºModulo\DS1\Atividades Interface\Calcu\Calcu\obj\x86\Debug\Calcu.pdb
+H:\2ºModulo\DS1\Atividades Interface\Calcu\Calcu\bin\Debug\Calcu.exe
+H:\2ºModulo\DS1\Atividades Interface\Calcu\Calcu\bin\Debug\Calcu.pdb
+H:\2ºModulo\DS1\Atividades Interface\Calcu\Calcu\obj\x86\Debug\Calcu.csprojResolveAssemblyReference.cache
+H:\2ºModulo\DS1\Atividades Interface\Calcu\Calcu\obj\x86\Debug\Calcu.frmCalcu.resources
+H:\2ºModulo\DS1\Atividades Interface\Calcu\Calcu\obj\x86\Debug\Calcu.Properties.Resources.resources
+H:\2ºModulo\DS1\Atividades Interface\Calcu\Calcu\obj\x86\Debug\Calcu.csproj.GenerateResource.Cache
+C:\Users\Aluno\Documents\GitHub\CalculadoraDS1\Calcu\Calcu\obj\x86\Debug\Calcu.exe
+C:\Users\Aluno\Documents\GitHub\CalculadoraDS1\Calcu\Calcu\obj\x86\Debug\Calcu.pdb
+C:\Users\Aluno\Documents\GitHub\CalculadoraDS1\Calcu\Calcu\bin\Debug\Calcu.exe
+C:\Users\Aluno\Documents\GitHub\CalculadoraDS1\Calcu\Calcu\bin\Debug\Calcu.pdb
+C:\Users\Aluno\Documents\GitHub\CalculadoraDS1\Calcu\Calcu\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Aluno\Documents\GitHub\CalculadoraDS1\Calcu\Calcu\obj\x86\Debug\Calcu.frmCalcu.resources
+C:\Users\Aluno\Documents\GitHub\CalculadoraDS1\Calcu\Calcu\obj\x86\Debug\Calcu.Properties.Resources.resources
+C:\Users\Aluno\Documents\GitHub\CalculadoraDS1\Calcu\Calcu\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Aluno\Documents\GitHub\CalculadoraDS1\Calcu\Calcu\obj\x86\Debug\GenerateResource.write.1.tlog
